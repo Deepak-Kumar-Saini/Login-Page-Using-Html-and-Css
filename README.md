@@ -1,6 +1,7 @@
 # Login Page (HTML & CSS)
 A simple, elegant login form with responsive styling and focus states.
-
+## 📸 Screenshot
+![Screenshot](https://raw.githubusercontent.com/Deepak-Kumar-Saini/Login-Page-Using-Html-and-Css/refs/heads/main/Screenshot.jpg)
 ## 📂 Structure
 Login-Page-Using-Html-and-Css/  
 ├── index.html  
